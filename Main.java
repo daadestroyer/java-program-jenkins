@@ -6,6 +6,8 @@ public class Main{
         System.out.println("This is java program");
         System.out.println("Output from java program");
         System.out.println("Current Date :  "+new Date(2025, 4, 8));
+        System.out.println("This is change 2");
         System.out.println("-----------------------------");
+        
     }
 }
