@@ -11,6 +11,7 @@ public class Main{
         Student st = new Student("Shubham Nigam");
         st.sayHello();
         System.out.println("20 Apr 2025");
+        System.out.println("20 Apr 2025");
         System.out.println("-----------------------------");
         
     }
