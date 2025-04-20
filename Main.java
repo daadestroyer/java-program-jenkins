@@ -13,6 +13,7 @@ public class Main{
         System.out.println("20 Apr 2025");
         System.out.println("20 Apr 2025");
         System.out.println(10/0);
+        System.out.println(10/0);
         System.out.println("-----------------------------");
         
     }
